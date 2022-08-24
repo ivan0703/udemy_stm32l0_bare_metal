@@ -3,3 +3,4 @@
 Binaries/
 *.launch
 Debug/
+.DS_Store
