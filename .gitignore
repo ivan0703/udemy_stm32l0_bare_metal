@@ -1,0 +1,5 @@
+.settings/
+.metadata/
+Binaries/
+*.launch
+Debug/
